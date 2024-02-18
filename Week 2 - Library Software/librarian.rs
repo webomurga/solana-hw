@@ -38,7 +38,7 @@ fn main() {
         page_count: 864
     };
 
-    // Declare a new instance of struct "Magazine". (For example, MIT Technology Review.)
+    // Declare a new instance of struct "Magazine". (For example, CHIP Online TR.)
     let trmag = Magazine {
         title: "CHIP Online Türkiye".to_string(),
         issue: 1,
