@@ -40,7 +40,7 @@ fn main() {
 
     // Declare a new instance of struct "Magazine". (For example, MIT Technology Review.)
     let trmag = Magazine {
-        title: "MIT Technology Review".to_string(),
+        title: "CHIP Online Türkiye".to_string(),
         issue: 1,
         topic: "Bugünün Masalları...".to_string()
     };
